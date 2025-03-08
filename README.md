@@ -38,8 +38,8 @@ Para saber mais sobre o GitFlow, consulte o [guia oficial](https://nvie.com/post
 
 ## Documentação e Acompanhamento 🔍
 
-- [Wiki](https://github.com/fullstackclub-labs/fitflow/wiki): Acesse a documentação completa do FitFlow na Wiki.
-- [Projeto](https://github.com/fullstackclub-labs/fitflow/projects?query=is%3Aopen): Acompanhe o progresso do projeto no painel de projetos.
+- [Wiki](https://github.com/paulosantana95/fit-flow/wiki): Acesse a documentação completa do FitFlow na Wiki.
+- [Projeto](https://github.com/users/paulosantana95/projects/2/views/1): Acompanhe o progresso do projeto no painel de projetos.
 
 ## Contato 📬
 
