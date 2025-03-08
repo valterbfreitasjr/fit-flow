@@ -46,7 +46,8 @@ Para saber mais sobre o GitFlow, consulte o [guia oficial](https://nvie.com/post
 Para dúvidas, sugestões ou colaborações, entre em contato conosco:
 
 - Email: felipe@fullstackclub.io
-- Issue Tracker: [GitHub Issues](https://github.com/fullstackclub-labs/fitflow/issues)
+- Issue Tracker: [GitHub Issues](https://github.com/paulosantana95/fit-flow/issues)
+- Issue Board: [Github Board](https://github.com/users/paulosantana95/projects/2/views/1)
 
 ## Licença 📝
 
