@@ -1,54 +1,36 @@
-# FitFlow - Gerenciamento de Planos de Treino
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Bem-vindo ao repositório do projeto FitFlow! 💪
+## Getting Started
 
-O FitFlow é uma aplicação voltada para o gerenciamento de planos de treino personalizados. Desenvolvido pelos alunos do [Full Stack Club](https://fullstackclub.com.br/), um curso de programação que abrange tópicos como React, Node, TypeScript e muito mais. Com o FitFlow, os usuários podem criar, compartilhar e monitorar seus planos de treino de maneira eficaz e conveniente. A aplicação oferece uma variedade de recursos que ajudam os usuários a alcançar seus objetivos de condicionamento físico de forma personalizada e organizada.
+First, run the development server:
 
-## Funcionalidades Principais 🏋️‍♀️
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-- Crie e gerencie planos de treino personalizados.
-- Adicione exercícios específicos para cada dia de treino.
-- Acompanhe o progresso e marque os treinos como concluídos.
-- Visualize estatísticas e histórico de treinos.
-- Compartilhe seus planos de treino com outros usuários.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Tecnologias Utilizadas 🚀
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-- **Frontend e Backend**: Desenvolvimento integrado usando o Next.js 15 para renderização do lado do servidor.
-- **Autenticação**: Next Auth para autenticação de usuários, inicialmente com suporte para login pelo Google.
-- **Design e Componentes**: Tailwind CSS e shadcn/ui para criação de interfaces modernas e responsivas.
-- **Banco de Dados**: Postgres com Prisma para interação eficiente com o banco de dados.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Gerenciamento de Branches com GitFlow 🌿
+## Learn More
 
-Nós adotamos a abordagem de gerenciamento de branches GitFlow para organizar o fluxo de trabalho do nosso projeto. Isso significa que utilizamos os branches `main` e `development` como branches principais. O `main` contém o código estável do nosso projeto, enquanto o `development` é onde as novas funcionalidades são desenvolvidas antes de serem mescladas no `main`. Para cada nova funcionalidade, criamos branches de feature a partir do `development`.
+To learn more about Next.js, take a look at the following resources:
 
-Para correções de bugs, criamos branches a partir da `main`. Essa abordagem nos permite manter um fluxo de trabalho organizado, garantindo que as correções de bugs sejam feitas a partir do código estável.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Para saber mais sobre o GitFlow, consulte o [guia oficial](https://nvie.com/posts/a-successful-git-branching-model/) do Vincent Driessen.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Como Contribuir 🤝
+## Deploy on Vercel
 
-1. Faça um clone deste repositório.
-2. Crie um branch para as suas alterações: `git checkout -b minha-contribuicao`.
-3. Faça suas modificações e adições.
-4. Faça commits das suas mudanças: `git commit -m 'Adiciona novos recursos'`.
-5. Faça um push para o seu branch: `git push origin minha-contribuicao`.
-6. Abra um pull request neste repositório.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## Documentação e Acompanhamento 🔍
-
-- [Wiki](https://github.com/paulosantana95/fit-flow/wiki): Acesse a documentação completa do FitFlow na Wiki.
-- [Projeto](https://github.com/users/paulosantana95/projects/2/views/1): Acompanhe o progresso do projeto no painel de projetos.
-
-## Contato 📬
-
-Para dúvidas, sugestões ou colaborações, entre em contato conosco:
-
-- Email: felipe@fullstackclub.io
-- Issue Tracker: [GitHub Issues](https://github.com/paulosantana95/fit-flow/issues)
-- Issue Board: [Github Board](https://github.com/users/paulosantana95/projects/2/views/1)
-
-## Licença 📝
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
